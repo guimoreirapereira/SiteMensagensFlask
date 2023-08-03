@@ -1,7 +1,7 @@
 # Site Posts
-#Descrição
-Nesse projeto estou criando um 
+Descrição:
+Nesse projeto estou criando um site para publicação de posts numa pagina web.
 
-#Tecnologia utilizadas
+Tecnologia utilizadas:
 Flask
 SqlAlchemy
